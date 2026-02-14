@@ -1,22 +1,8 @@
 # Evan Persinger
 
-I'm a Data Science student at Western University in London, Ontario, Canada.
-I'm interested in AI agents, and data science.
-
-Located between Canada and the US.
-I am studying in Ontario during the academic year.
-I spend my summers in San Francisco.
-
-## Experience
-
-**Tatari**
-Conducted comprehensive analysis of 12 months of infrastructure spending patterns across enterprise tech products including Slack and AWS.
-
-**Supercog**
-Designed and implemented AI agents in Python, including educational study assistants and a university course advisor system. Provided mentorship to peers on agent development, architecture, and debugging methodologies.
-
-**Biztrip**
-Architected backend infrastructure leveraging AWS, PostgreSQL, and Python. Engineered data pipelines for AI agent consumption, established frontend-backend integration, and implemented Sabre API integration for real-time flight and hotel data. Actively maintain analytics systems and develop new backend features.
+I'm a Data Science student at Western University in London, Ontario.
+I have experience building AI agents, managing databases using AWS PostgreSQL. 
+I'm currently working at Biztrip AI as a Currently based between Canada and the US — studying in Ontario and working in San Francisco during summers.
 
 ## Technical Skills
 
