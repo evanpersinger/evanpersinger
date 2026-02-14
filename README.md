@@ -3,9 +3,11 @@
 I'm a Data Science student at Western University in London, Ontario, Canada.
 I'm interested in AI agents, and data science.
 
-Located between Canada and the US — studying in Ontario during the academic year, based in San Francisco during summers.
+Located between Canada and the US.
+I am studying in Ontario during the academic year.
+I spend my summers in San Francisco.
 
-## Professional Experience
+## Experience
 
 **Tatari**
 Conducted comprehensive analysis of 12 months of infrastructure spending patterns across enterprise tech products including Slack and AWS.
@@ -18,16 +20,13 @@ Architected backend infrastructure leveraging AWS, PostgreSQL, and Python. Engin
 
 ## Technical Skills
 
-**Languages & Frameworks:** Python
-
-**Databases:** PostgreSQL
-
-**Cloud & Infrastructure:** AWS
-
-**API Development:** REST APIs
-
-**Data:** Data Analysis & Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-339933?style=flat-square&logo=api&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=flat-square&logo=analytics&logoColor=white)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/evanpersinger/) · [Email](mailto:evan9persinger@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanpersinger/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evan9persinger@gmail.com)
