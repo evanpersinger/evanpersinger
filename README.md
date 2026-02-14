@@ -1,6 +1,7 @@
 # Evan Persinger
 
-Data Science student at Western University in London, Ontario, specializing in AI agents, backend infrastructure, and data analysis.
+I'm a Data Science student at Western University in London, Ontario, Canada.
+I'm interested in AI agents, and data science.
 
 Located between Canada and the US — studying in Ontario during the academic year, based in San Francisco during summers.
 
@@ -26,3 +27,7 @@ Architected backend infrastructure leveraging AWS, PostgreSQL, and Python. Engin
 **API Development:** REST APIs
 
 **Data:** Data Analysis & Processing
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/evanpersinger/) · [Email](mailto:evan9persinger@gmail.com)
