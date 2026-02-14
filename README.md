@@ -3,7 +3,8 @@
 - Data Science student at Western University in London, Ontario
 - Experience building AI agents and backend systems using Python, AWS, and PostgreSQL
 - Currently working at Biztrip AI as a Backend Engineering Intern
-- Based between Canada and the US — studying in Ontario, summers in San Francisco
+- Based between Canada and the US.
+- Spend my summers in San Francisco.
 
 ## Technical Skills
 
