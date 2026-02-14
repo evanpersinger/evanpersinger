@@ -1,19 +1,28 @@
-# Hi, I'm Evan
+# Evan Persinger
 
-Data Science student at Western University in London, Ontario.
+Data Science student at Western University in London, Ontario, specializing in AI agents, backend infrastructure, and data analysis.
 
-I split my time between Canada and the US — school year in Ontario, summers in San Francisco.
+Located between Canada and the US — studying in Ontario during the academic year, based in San Francisco during summers.
 
-## Experience
+## Professional Experience
 
-**Tatari** — Analyzed 12 months of infrastructure spending across tech products like Slack and AWS.
+**Tatari**
+Conducted comprehensive analysis of 12 months of infrastructure spending patterns across enterprise tech products including Slack and AWS.
 
-**Supercog** — Built AI agents using Python, including study agents and a university course advisor agent. Mentored other students on building and debugging agents.
+**Supercog**
+Designed and implemented AI agents in Python, including educational study assistants and a university course advisor system. Provided mentorship to peers on agent development, architecture, and debugging methodologies.
 
-**Biztrip** — Built backend infrastructure using AWS, PostgreSQL, and Python. Cleaned and organized datasets for AI agents, connected frontend with backend, and integrated Sabre's API for flight and hotel data. Currently maintaining the analytics agent and working on backend features.
+**Biztrip**
+Architected backend infrastructure leveraging AWS, PostgreSQL, and Python. Engineered data pipelines for AI agent consumption, established frontend-backend integration, and implemented Sabre API integration for real-time flight and hotel data. Actively maintain analytics systems and develop new backend features.
 
+## Technical Skills
 
+**Languages & Frameworks:** Python
 
-## Tools & Tech
+**Databases:** PostgreSQL
 
-Python · PostgreSQL · AWS · REST APIs · Data Analysis
+**Cloud & Infrastructure:** AWS
+
+**API Development:** REST APIs
+
+**Data:** Data Analysis & Processing
