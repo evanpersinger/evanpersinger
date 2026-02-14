@@ -1,8 +1,8 @@
 # Evan Persinger
 
-I'm a Data Science student at Western University in London, Ontario.
-I have experience building AI agents, managing databases using AWS PostgreSQL. 
-I'm currently working at Biztrip AI as a backend engineering intern. Currently studying in Canada and I spend my summers in San Francisco.
+• I'm a Data Science student at Western University in London, Ontario.
+• I have experience building AI agents, managing databases using AWS PostgreSQL. 
+• I'm currently working at Biztrip AI as a backend engineering intern. Currently studying in Canada and I spend my summers in San Francisco.
 
 ## Technical Skills
 
