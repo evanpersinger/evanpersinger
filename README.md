@@ -2,7 +2,7 @@
 
 - Data Science student at Western University in London, Ontario
 - Experience building AI agents and backend systems using Python, AWS Postgres, and PostgreSQL
-- Currently working at [Biztrip AI](https://www.biztrip.ai/) as a Backend Engineering Intern, we're building an AI travel agent
+- Currently working at [BizTrip AI](https://www.biztrip.ai/) as a Backend Engineering Intern, we're building an AI travel agent
 - Based between Canada and the US, spend my summers in San Francisco
 
 ## Tech Stack
@@ -14,6 +14,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+
+## GitHub Stats
+
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanpersinger&show_icons=true&theme=default)
 
 ## Connect
 
