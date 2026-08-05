@@ -1,5 +1,7 @@
 # Evan Persinger
 
+![Evan's GitHub stats](https://github-stats-extended.vercel.app/api?username=evanpersinger)
+
 - Data Science student at Western University in London, Ontario
 - Experience building AI agents and backend systems using Python, AWS Postgres, and PostgreSQL
 - Currently working at [BizTrip AI](https://www.biztrip.ai/) as a Backend Engineering Intern, we're building an AI travel agent
