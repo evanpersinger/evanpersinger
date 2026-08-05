@@ -1,7 +1,9 @@
 # Evan Persinger
 
+Portfolio: https://portfolio-sable-seven-14.vercel.app/
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=evanpersinger&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" /><br/>
+  <img src="https://github-stats-extended.vercel.app/api?username=evanpersinger&show_icons=true&rank_icon=github&custom_title=GitHub+Stats&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" /><br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=evanpersinger&layout=compact&langs_count=4&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="420" />
 </p>
 
@@ -14,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![AWS Postgres](https://img.shields.io/badge/AWS%20Postgres-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
