@@ -1,6 +1,6 @@
 # Evan Persinger
 
-**Portfolio** [![portfolio-sable-seven-14.vercel.app](https://img.shields.io/badge/portfolio--sable--seven--14.vercel.app-2f80ed?style=flat-square)](https://portfolio-sable-seven-14.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2f80ed?style=flat-square)](https://portfolio-sable-seven-14.vercel.app/)
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=evanpersinger&show_icons=true&rank_icon=github&custom_title=GitHub+Stats&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" /><br/>
