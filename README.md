@@ -7,8 +7,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=evanpersinger&layout=compact&langs_count=4&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="420" />
 </p>
 
-- Data Science student at Western University in London, Ontario
-- Currently working at [BizTrip AI](https://www.biztrip.ai/) as a Backend Engineering Intern, we're building an AI travel agent
+- 4th year Data Science student at Western University in London, Ontario
 - Based between Canada and the US, dual citizen.
 
 ## Tech Stack
