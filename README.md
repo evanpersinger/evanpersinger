@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2f80ed?style=for-the-badge)](https://portfolio-sable-seven-14.vercel.app/)
 
 - Junior Data Science student at Western University in London, Ontario, graduating January 2028
-- Based between Canada and the US, dual citizen.
+- Based in San Francisco, California.
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=evanpersinger&show_icons=true&rank_icon=github&custom_title=GitHub+Stats&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=a5d6ff&border_color=1f6feb" /><br/>
