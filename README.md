@@ -6,8 +6,8 @@
 - Based between Canada and the US, dual citizen.
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=evanpersinger&show_icons=true&rank_icon=github&custom_title=GitHub+Stats&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" /><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=evanpersinger&layout=compact&langs_count=4&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api?username=evanpersinger&show_icons=true&rank_icon=github&custom_title=GitHub+Stats&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=a5d6ff&border_color=1f6feb" /><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=evanpersinger&layout=compact&langs_count=4&bg_color=0d1117&title_color=58a6ff&text_color=a5d6ff&border_color=1f6feb" width="420" />
 </p>
 
 ## Tech Stack
