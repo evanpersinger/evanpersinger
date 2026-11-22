@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2f80ed?style=for-the-badge)](https://portfolio-sable-seven-14.vercel.app/)
 
-- Junior Data Science student at Western University in London, Ontario, graduating January 2028
+- Junior Data Science student at Western University, graduating January 2028
 - Based in San Francisco, California.
 
 <p align="center">
